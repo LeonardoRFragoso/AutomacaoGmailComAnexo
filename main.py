@@ -6,7 +6,7 @@ from email.mime.application import MIMEApplication
 # Configurações de e-mail
 de = 'leonardorfragoso@gmail.com'
 para = 'leonardorfragoso@gmail.com'
-senha = 'ppwbgavdaaaowxeo'  # Certifique-se de armazenar isso com segurança
+senha = 'xxxxxxxxppwbgavdxxxxaaaowxeoxxxxxxxxxxxxxx'
 assunto = 'teste'
 mensagem = 'teste'
 
